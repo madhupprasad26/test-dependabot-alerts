@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Sandbox repo for testing Dependabot alerts/webhooks",
   "dependencies": {
-    "lodash": "4.17.4"
+    "lodash": "4.17.4",
+    "vm2": "3.9.10"
   }
 }
