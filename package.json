@@ -1,0 +1,8 @@
+{
+  "name": "test-dependabot-alerts",
+  "version": "1.0.0",
+  "description": "Sandbox repo for testing Dependabot alerts/webhooks",
+  "dependencies": {
+    "lodash": "4.17.4"
+  }
+}
