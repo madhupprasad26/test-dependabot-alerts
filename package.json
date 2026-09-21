@@ -4,6 +4,7 @@
   "description": "Sandbox repo for testing Dependabot alerts/webhooks",
   "dependencies": {
     "lodash": "4.17.4",
-    "vm2": "3.9.10"
+    "vm2": "3.9.10",
+    "underscore": "1.12.1"
   }
 }
